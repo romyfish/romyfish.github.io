@@ -11,7 +11,7 @@ Hi there
 I am a first-year PhD student at [the University of Glasgow](https://www.gla.ac.uk/), very fortunate to be supervised by 
 [Dr. Stephen Lindsay](https://www.gla.ac.uk/schools/computing/staff/stephenlindsay/), [Dr. Xianghua (Sharon) Ding](https://www.gla.ac.uk/schools/computing/staff/xianghuading/), and [Dr. Mary Ellen Foster](https://www.gla.ac.uk/schools/computing/staff/maryellenfoster/). Previously, I received my Bachelor's degree in Computer Science & Technology at [the South China University of Technology](https://www.scut.edu.cn/en/) in 2022, and the Master's degree in Robotics & AI at [the University of Glasgow](https://www.gla.ac.uk/) in 2023. Despite having a STEM background, I've always been fascinated by psychology and the relationship between humans and machines, and my research interest includes Human-Computer Interaction, Human-Robot Interaction, Conversational Interfaces, AI, NLP, LLM, Digital Healthcare Support, Computational Social Science.
 
-You can find my CV [here](assets/CV.pdf).
+You can find my CV [here](../assets/CV.pdf).
 
 My Research
 ------
