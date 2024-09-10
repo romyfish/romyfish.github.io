@@ -12,8 +12,8 @@ title                    : "Wanshu Yu"
 title_separator          : "-"
 name                     : &name "Wanshu Yu"
 description              : &description "wanshu"
-url                      : https://romyfish.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : "https://romyfish.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/assets/CV.pdf" # the subpath of your site, e.g. "/blog"
 repository               : "romyfish/romyfish.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
