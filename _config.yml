@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Wanshu Yu - Home"
+title                    : "Wanshu Yu"
 title_separator          : "-"
 name                     : &name "Wanshu Yu"
 description              : &description "wanshu"
@@ -24,7 +24,7 @@ author:
   avatar           : "myphoto.png"
   name             : "Wanshu Yu"
   pronouns         : "she/her/hers"  
-  bio              : "You can call me Romy as well!"
+  bio              : "You can call me Romy as well :)"
   location         : "United Kingdom"
   employer         : "University of Glasgow"
   uri              : "https://www.gla.ac.uk/pgrs/wanshuyu/"
