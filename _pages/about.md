@@ -14,7 +14,7 @@ I am a first-year PhD student at [the University of Glasgow](https://www.gla.ac.
 You can find my CV [here](..assets/CV.pdf).
 
 My Research
-======
+------
 I currently focus on leveraging emerging digital technologies to enhance the effectiveness of peer support organizations. I am actively seeking opportunities to collaborate with relevant healthcare services, working alongside practitioners to co-design an intelligent chatbot which can facilitate peer support communities on social platforms. Acknowledging that robots can never fully replace human interaction, my ultimate goal is to make chatbots and other advanced technologies serve as thoughtful assistants for humans, reducing both physical and emotional workloads and making life easier for individuals and society in practice.
 
 I've built an initial web-based chatbot prototype <img src="/images/robot.png" alt="ferrybot" title="ferrybot" style="width:25px; height:auto;" />
