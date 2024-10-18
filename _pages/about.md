@@ -19,3 +19,5 @@ I currently focus on leveraging emerging digital technologies to enhance the eff
 
 I've built an initial web-based chatbot prototype <img src="/images/robot.png" alt="ferrybot" title="ferrybot" style="width:25px; height:auto;" />
  [Ferrybot](https://ferrybot.eu.pythonanywhere.com/) demonstrating the potential of integrating chatbots into the peer support framework, and we believe it promises to revolutionize the field. Hope you have fun playing with it and please don't hesitate to reach out at any time!
+
+ You can find the poster of my research <a href="../assets/Poster.pdf" target="_blank">here</a>
