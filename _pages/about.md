@@ -22,5 +22,5 @@ I've built a web-based chatbot prototype <img src="/images/robot.png" alt="ferry
 
  You can find the recruiting poster of my project <a href="../assets/workshop-recruiting-poster.pdf" target="_blank">here</a>.
 
- <iframe width="640" height="360" src="https://youtu.be/AKI72F8up84" frameborder="0" allowfullscreen></iframe>
+ <iframe width="640" height="360" src="[https://youtu.be/AKI72F8up84?si=vNcL9DC3JW7m1eg2](https://youtu.be/AKI72F8up84?si=vNcL9DC3JW7m1eg2)" frameborder="0" allowfullscreen></iframe>
 
