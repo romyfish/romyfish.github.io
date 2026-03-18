@@ -18,7 +18,7 @@ My Research
 I currently focus on leveraging emerging LLM technologies to enhance the effectiveness of peer support organizations. I am actively seeking opportunities to collaborate with relevant healthcare services, working alongside practitioners to co-design a specialized intelligent agent. Acknowledging that robots can never replace human connections, my ultimate goal is to make LLMs and other advanced technologies serve as thoughtful assistants for humans, reducing both physical and emotional workloads and making life easier for individuals and society in practice.
 
 I've built a web-based chatbot prototype <img src="/images/robot.png" alt="ferrybot" title="ferrybot" style="width:25px; height:auto;" />
- [Ferrybot](https://ferrybot.eu.pythonanywhere.com/) with four corresponding <img src="/images/youtube.png" alt="youtube" title="youtube" style="width:25px; height:auto;" />
+ [Ferrybot](https://ferrybot.eu.pythonanywhere.com/) with four corresponding <img src="/images/youtubeLogo.png" alt="youtube" title="youtube" style="width:20px; height:auto;" />
  [scenario videos](https://www.youtube.com/@YuRomy)，demonstrating the potential of integrating a conversational agent into peer support framework, and we believe it promises to revolutionize the field. Hope you have fun playing with it and please don't hesitate to reach out at any time!
 
 You can find the recruiting poster of my project <a href="../assets/workshop-recruiting-poster.pdf" target="_blank">here</a>.
