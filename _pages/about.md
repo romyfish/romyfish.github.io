@@ -19,6 +19,6 @@ I currently focus on leveraging emerging LLM technologies to enhance the effecti
 
 I've built a web-based chatbot prototype <img src="/images/robot.png" alt="ferrybot" title="ferrybot" style="width:25px; height:auto;" />
  [Ferrybot](https://ferrybot.eu.pythonanywhere.com/) with four corresponding <img src="/images/youtubeLogo.png" alt="youtube" title="youtube" style="width:20px; height:auto;" />
- [scenario videos](https://www.youtube.com/@YuRomy)，demonstrating the potential of integrating a conversational agent into peer support framework, and we believe it promises to revolutionize the field. Hope you have fun playing with it and please don't hesitate to reach out at any time!
+ [scenario videos](https://www.youtube.com/@YuRomy), demonstrating the potential of integrating a conversational agent into peer support framework, and we believe it promises to revolutionize the field. Hope you have fun playing with it and please don't hesitate to reach out at any time!
 
 You can find the recruiting poster of my project <a href="../assets/workshop-recruiting-poster.pdf" target="_blank">here</a>.
